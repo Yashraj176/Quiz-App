@@ -1,1 +1,3 @@
-Github Page Live Link- https://yashraj176.github.io/Quiz-App/
+# Quick quiz
+
+Deployment Link - https://quiz-app-beta-lac.vercel.app/
